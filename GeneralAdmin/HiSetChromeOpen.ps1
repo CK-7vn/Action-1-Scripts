@@ -1,5 +1,4 @@
-# ————————————————
-$IconUrl      = ""    # the url of where your icon is located
+$IconUrl = "https://jmp.sh/s/Q3J9B4yuJjFduO6zR9iq"
 $ShortcutName = "EssentialEd.lnk"                    # name on desktop
 # ————————————————
 
